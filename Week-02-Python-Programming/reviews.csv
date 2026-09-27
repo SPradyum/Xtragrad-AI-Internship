@@ -1,0 +1,31 @@
+review,sentiment
+The product quality is excellent.,Positive
+I loved the service and delivery was fast.,Positive
+Amazing product and fast delivery!,Positive
+"Great value for money, highly recommend.",Positive
+The customer support team was very helpful.,Positive
+I am extremely satisfied with my purchase.,Positive
+The packaging was neat and the product works perfectly.,Positive
+Excellent build quality and smooth performance.,Positive
+Fast shipping and the item matched the description.,Positive
+"Very happy with this purchase, will buy again.",Positive
+The product stopped working after two days.,Negative
+Very poor customer support.,Negative
+The quality is terrible.,Negative
+I am very disappointed with this product.,Negative
+The item arrived damaged and unusable.,Negative
+Worst shopping experience ever.,Negative
+The delivery was delayed by two weeks.,Negative
+The material feels cheap and flimsy.,Negative
+Customer service did not respond to my complaint.,Negative
+This product broke on the first use.,Negative
+The package arrived yesterday.,Neutral
+The product is okay for the price.,Neutral
+The package arrived today.,Neutral
+"It works as expected, nothing special.",Neutral
+The color is slightly different from the picture.,Neutral
+I received the order on time.,Neutral
+The manual could be clearer but the product is fine.,Neutral
+"It is an average product, does the job.",Neutral
+Delivery took the usual amount of time.,Neutral
+The size is as mentioned in the description.,Neutral
