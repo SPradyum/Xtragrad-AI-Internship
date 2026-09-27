@@ -12,7 +12,7 @@
 
 During the first week of my AI internship at Xtragrad, I explored how Artificial Intelligence is integrated into everyday applications and digital services.
 
-As part of the AI Exploration Activity, I identified ten examples of AI in my daily life and reflected on how these technologies support activities such as studying, entertainment, navigation, communication and security.
+As part of the AI Exploration Activity, I identified ten examples of AI in my daily life. I reflected on how these technologies support activities such as studying, entertainment, navigation, communication, and security.
 
 ## 2. Objectives
 
@@ -50,17 +50,12 @@ The activity helped me recognize:
 
 ## 5. Personal Reflection
 
-After completing this activity, I realized that AI is already a normal part of my everyday life. I use it for entertainment, studies, travel, communication and even security, often without consciously thinking about it as AI.
+After completing this activity, I realized that AI is already a normal part of my everyday life. I use it for entertainment, studies, travel, communication, and even security, often without consciously thinking about it as AI.
 
-This exploration gave me an opportunity to connect the topic of AI Fundamentals with applications I regularly use.
+This exploration helped me connect AI Fundamentals with applications I use regularly.
 
-## 6. Deliverable
 
-The completed written activity is available below.
-
-📄 **[View AI in Daily Life — Activity PDF](./AI-in-Daily-Life.pdf)**
-
-## 7. Conclusion
+## 6. Conclusion
 
 Week 1 introduced me to the practical presence of Artificial Intelligence in everyday digital experiences. By exploring ten familiar applications, I developed an introductory understanding of how AI supports a wide range of services and activities.
 
